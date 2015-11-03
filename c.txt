@@ -1,0 +1,1 @@
+Ask the user to specify an input file and an output file. Split the input file into words (Tokens) and arrange those words in 2 balanced (Same height) newspaper columns, fully justified. The 2 columns are 35 characters wide with a 5 character gap between. 

@@ -1,0 +1,425 @@
+
+In solving the wave equation, three unknowns were encountered (A fourth was later added). 
+These unknowns are called the quantum nmbers, and describe different properties of 
+the electron. 
+
+- Electron configuration is a bookkeeping system that tracks all the 
+  electrons of an atom. 
+
+- The Bohr-Rutherford diagram is a really poor way to keep track of 
+  all the electorns.
+- The form it takes is nL^# of Electrons
+- n is the Energy Level
+- This is called the Principal Quantum Number 
+- In Quantum, there are four ways to eep track of an electron. 
+- The principal Quantum Number keeps track of the energy level the 
+  electron is in.
+
+
+- For example, Carbon has six electrons. According to Bohr-Rutherford, 
+  there are two shells.
+- Here, instead, it has 2 in the first energy level, with four in the second energy level.
+
+- Phosphorous has three energy levels. 
+  - The first energy level has 2
+  - The second energy level has 8
+  - The third energy level has 5
+
+
+
+- L is called your "orbital quantum number"
+- Orbital coming from the word orbit. In the early quantum theory,
+  electrons orbited an electron, which was two dimensional.
+- Orbital is a region in space where there is a high probability of
+  finding an electron or electrons.
+- So the orbital qunatum number describes the shape 
+  the electrons behave (The shapes).
+- We usually describe this in terms of shapes 
+
+
+
+-  There are 
+"Remember, electrons are constantly moving. Because they are 
+constantly moving, we can't ddescribe their exact location, we can only
+say that they're probably located in this area"
+
+"I'm going to tell you- Oh, there's uhh three shapes, a fourth one, but for
+grade 11's sake, I'll telly ou what the three shapes are.
+
+The three shapes that electrons behave are
+
+The S-orbital,  because S stands for spherical
+And I'll tell you where the S orbitals are. 
+
+Okay, S- Orbital. Here it is. See this periodic table you have? 
+
+Electrons can spin, Ms is the spin number.
+There are two numbers, positive one half and negative one half.
+So electrons can spin on their axes. 
+
+So the electron configuration for hydrogen is simply 1S^1
+
+In Hydrogen, the S-orbital, the electron would move
+in a spherical shape. Orbitals are 3D
+
+If I were to use the wave equation, and if we were to solwe 
+the wave equation, input all the information about yhrdorgen, this is the solution
+that you will see.
+Each of these dots reperesent a solution to the wave equation.
+
+What it means is that each of these dots represent a high probability of finding
+a hydrogen electron. 
+
+So in a S-orbital, the shape given by the most likely points would be a sphere, tehrefore
+the S-orbital.
+
+Let's look at Lithium. 
+
+Lithimu is also the electrons in the S.
+
+The only difference between Lithium and Hydrogen is that Lithimu has a bigger orbital.
+
+And how many electorns does a Lithium atom have? 3. 
+Where are the first two? In the first energy level.
+And the third one is somewhere in the outer energy level.
+
+Alright, next, you see the third box? Group 3 to gorup 8 of the representative. 
+
+These guys are the P-orbitals  (Propellor).
+So when it moves, it moves in a propeller shape.
+
+A propeller shape looks like an infinity sign.
+
+With the propeller one, you have 3 propellers all meeting at the centre, 
+creating a 3 dimensional shape. All there of them intersect at their centres.
+
+And the last oril, you see the transition metals? these guys are the
+D-orbitals. The "D". D stands for "Dumbell". As each orbit can hold two, and there are 5 
+similar orbitals, it can hold a total of 10 electrons.
+
+One more rule, one more thing.
+I wonder if I should show you how to derive L.
+OKay, this is FYI.
+L is determined by n - 1, where n is energy level. 
+
+Don't worry about Ml, I won't show you how to derive Ml.
+
+So that means, who are the atoms in the first energy level?
+Hydrogen and Helium.
+And what are their n-levels? (0? I think.)
+Oh, yea. So anyways, hydrogen and helium are in the first row,
+so that means that their N-values are n = 1.
+What are the L values of Hydrogen and helium?
+So it's 0.
+So if it's 0, what is the shape of the orbital? (Spheriacl)
+Spherical. So when we wirte the electorn configuration fo rHydrogen, it's 1S^1.
+For Helium, it's 1S^2.
+
+The reason why it's still an S is because the L value is still 0. 
+
+Let's write one for Lithium.
+
+Li has a total of 3 electorns.
+
+So you have to fill, whenever you are filling, yo ualways fill from 
+tehe inner energy level from the lowest to the highest.
+
+Li: 1S^2 2S^1
+
+The 2 tells us that it's in the second energy level ad that it moves in a
+spherical shape.
+
+OKay, after Lithium is Boron.
+
+Boron is 
+1S^2 2S^2 2P^1
+
+Okay, so let's practice some more.
+
+Let's look at Phosphorous.
+
+Phosphorous has 15 electrons, right?
+So in order to get Phosphorous, let's start filling with the lowest.
+
+1S^2 is the lowest.
+So that brings us to atomic number two.
+1S^2 2S^2, but now wer'e in P, becaues we're on Boron.
+1S^2 2S^2 2P^6 
+
+After 2 P^6, we're down to ther third row, which is 3S^2
+
+1S^2 2S^2 2P^6 3S^2.
+
+And then wee're moving onto 1S^2 2S^2 2P^6 3S^2 3P^3
+
+How about Neon? One more?
+1S^2 2S^2 2P^6
+
+
+Make sense? Okay.
+
+I'll show you how to the shorthand notation.
+
+Okay. 
+
+Let's look at Neon. 
+
+Ne: 1S^2 2S^2 2P^6
+
+Let's look at Phosphorous.
+P: 1S^2 2S^2 2P^6 3S^2 3P^3
+
+This is called the "Long form." This is where we start from the first energy level up to the
+outer energy level.
+
+OKay, alright.
+
+Neon ends at 2P^6
+
+Whenever you write a shortform you always start wit ha noble gas.
+
+Remember how many electrons a P can hold? 6. So yo uwnill never, ever, find a 
+neon compound will ever form, becaues there's no room to form a bond. 
+It's full.
+
+We can rewrite Phosphorous using a shorthand notation.
+
+To write a shorthand notation, we start with the noble gas.
+
+If you loo kat P: [1S^2 2S^2 2P^6] 3S^2 3P^3, it looks like neon,
+so the shorthand notation is P:[Ne] 3S^2 3P^3.
+"
+
+
+So you always start with a noble gas to replace the first part, and then you write the remainder.
+
+"
+OKay, so now we're moving onto the Ds. The Ds are the tranisition memtals. Okay? 
+Before we do this, hold on. Do you guys rememebr the Lewis dot diagram 
+
+Phosphorous. How many valence electrons are in a Phoshporous electron? 
+5.
+Valence electors mean that the electors are in the outer energy level. Your third one.
+And there are two plus three is 5. (3S^2 + 3P^3)
+
+
+Now, let's start with the D. Notice Potassium.
+Okay, using shorthand notation, what's the electron configuration for 
+Potassium, using shorthand?
+K:[Ar] 4S^1
+(Argon is the nobel gas prior to K, and there is 1 electron in the outermost shell, which is S shaped.).
+
+After Potassium is Calcium.
+So therefore, you're going to start with argon, and potassium will be
+Ca:[Ar] 4S^2.
+
+Now, I want to move onto Scandium, which is Sc.
+
+Once again, we start with Argon.
+Sc: [Ar]4S^2 3D^1
+Alright, osn ow when you do hte order filling, you must fill teh 4S first before you do the 3D. The reason 
+why is beacuse the 3d  has higher potential energy.
+
+Scandium: How many valence electrons does Scandium have? 
+
+2.
+
+Wel the definition of valence electorns is the electrons located
+in the outemrost energy level. The one that is the furthest away from
+the nucleus. 
+
+Your D is always start at the third. 
+Remember the Ds fall one behind the S.
+
+You won't learn the F until next year.
+
+The F falls two behind the S. 
+
+Fe: [Ar] 4S^2 3D^6
+
+
+Okay, let me ask you another one.
+
+Let's look at, say, Copper.
+
+
+Cu: [Ar] 4S^2 3D^9
+
+
+Fe has 26 electrons.
+
+How many of those 26 electrons behave or move in spherical shape? (8)
+
+H + He
+Li + Be
+Na + Mg
+K + Ca
+8. 
+
+How many are the P-Orbital? (12).
+12.
+
+B + C + N + O + F + Ne
+Al + Si + P + S + Cl + Ar.
+
+So far, so 8 + 12 is 20.
+
+So we have 6 left.
+So how many are left in the Ds? (6)
+6. 
+Sc + Ti + V + Cr + Mn + Fe
+
+Lewis dot diagram for Fe has 2 
+
+What do yo uthink the valency for Fe is, or the ionic charge is ? 
++2 or +3. 
+
+All things want to be stable.
+So all things in stabel want to become stable.
+For an atom, there are three ways it can become stable.
+
+1) (The most stable) To be fully filled (Noble gas), like He: 1S^2
+IT's in the first energy level, teher's no rom. Because the S can only occupy 
+two electrons, and it's already full.
+Same thing as Neon, Ne: 1S^2 2P^6, and as you can see the P has 6, which is full.
+
+Did ou know that this thing exissts in life? XeF4
+Xeon can form a compound. Xeon Tetraflouride. 
+
+Because Xeon has orbitals tahta re empty. So there's room for bonding to occur.
+
+Okay, so I told you the first most stabel electron arangem.nt
+
+
+
+2) The second most is either all empty or all full. That's how yo uwant it.
+Either empty or full, you can't have antyhing else
+
+
+3) The third is half filled. 
+
+So these are your three stable electron arrangements of an atom. 
+Either you want the energy level to be fully filled, some of the orbitals either full or empty,
+or if you can't achieve that, we'd prefer for them to be half filled.
+
+
+OKay, so let's look at Fe. So how do you think you can get +2?
+
+THe electrons that are being lost are those thar are furthest away from the nucleus.
+
+It would lose from the 4S^2, empting the S, which is stable.
+
++3 is when you lose 2 from 4S, and 1 from 3D, which is also very stable.
+
+"
+
+So in order to predcit valency, you can just ese how many it would have to lose to get either "Half" full,
+"Half empty", or to "Empty out fully", or to "Fill fully"
+
+
+"Okay, se let's look at Arsenic.
+
+As: [Ar]4S^2 3D^10 4P^3.
+
+Okay, so if I were to ask you to draw the lewis dot diagram for Aresinc, what would it look like?
+5 on the outside. 
+
+3 from the 44P and 2 from the 4S.
+
+Okay, make sense?
+
+So when you look for valence electrons, you look for the highest N value.
+
+Remeber, n is your energy levels?
+
+Valencies for Arsenic? 
++3 (4P loses 3 from 4P^3), or +5 (4P loses 3 from 4P^3 and 4S^2 loses 2)
+
++5 is the more common.
+Because then tehre won't be a fourth shell at all, it'll fall back.
+
+So that means that the third one is fully filled. 
+
+Remeber, we want hte energy levels filled. 
+
+So let's do another one.
+Nitrogen.
+
+No, wait, let's do... Sure, we can do Nitrogen.
+
+N: 1S^2 2S^2 2P^3.
+
+Valencies for Nitrogen are +3, +5, -3.
+
+1S^2 2S^2 2P^3 loses 3 from 2P^3 to be +3
+
+1S^2 2S^2 2P^3 loses 3 from 2P^3 and 2 from 2S^2 to be + 5
+
+1S^2 2S^2 2P^3 fills up 2P to get -3 
+
+Outo f these one,s which one do yo uthink are most common?
+
+which ones are the most stable? The most common?
+
+It's definitely not +3, because if you do, you need ot fully fill the escond energy level.
+It's -3 because then if yo uhave 2P^6, then it's second energy shell is full.
+
+It's a lot easier to lose 3 than to gain 5.
+
+Can yo uguys practice wirting electron configurations for the first 54 elements?
+
+
+Monday, I'll show you how to write the energy lvel diagram.
+
+So I'll show you how to convert this to energy level diagarm.
+And then after that, we'll move onto trends.
+
+"
+
+
+
+
+The Bohr Model
+- Lowest Energy Orbit -> n = 1
+- The farther from the nucleus the greater the energy
+- Electrons want to be in the lowest energy orbits possible
+- The distance between the nucleus and the orbits depends on the number of 
+  protons in the nucleus and so is different for each element.
+
+Electron Filling
+ -  The maximum number of electrons in any orbit can be calculated using 2n^2
+- Exception: THe last orbit (valence) can only hold a maximum of 8 electrons (Octet rule)
+
+n 	     Symbol Orbit   Max number of electorns
+1	     1	    	    2
+2	     2		    8
+3	     3		    18
+4	     4		    32
+
+
+
+	     
+The Two Quantum Numbers
+
+1. The Principle Qantum Number  (n)
+   - Indicates the  energy an electron has 
+   - Tells us which energy level the electron is in 
+   - IT can have values of:
+     n = 1, 2, 3, 4....
+   - The higher the n-value, the greater the energy
+   - Correspond to Bohr's shells
+
+2. The Orbital Quantum Number (L) (An area in which there is a high possibility of an electron existing
+
+   - Indicates the shape of the orbital
+   - It can have values of:
+     	L: 0, 1, 2, 3... ( n - 1)
+
+
+    n-Value   Possible L-Values		Electrons		Name Of Orbital
+    1	      0	       			2			S-Orbital
+    2	      0,1			8 (2, 6)		S-Orbital, P-Orbital
+    3	      0, 1, 2			18(2, 6, 10)		S-Orbital, P-Orbital, D-Orbital	
+    4	      0, 1, 2, 3		32 (2x2, 2x6, 2x10)     2xS-Orbital, 2xP-Orbital, 2xD-Orbital
+
+
